@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("This is Comsil first\n");
+	printf("This is Comsil second\n");
 
 	return 0;
 }
